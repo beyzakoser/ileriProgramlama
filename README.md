@@ -1,1 +1,1 @@
- <a href="https://beyzakoser.github.io/ileriProgramlama/"> ödevler</a>
+ <a href="https://github.com/beyzakoser/odevler"> ödevler</a>
